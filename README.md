@@ -1,5 +1,4 @@
 # CarritoDeCompras
-# CarritoDeCompras
 
 Proyecto Java que implementa un sistema sencillo de carrito de compras.
 
